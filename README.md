@@ -26,7 +26,8 @@ Entered the following:
 Index document name: index.html.
 Error document path: 404. html.
 Saved the settings, which provided a Primary Endpoint URL for the website.
-![image](https://github.com/user-attachments/assets/9688c38d-0858-4e71-afd5-f2fb26d4deb5)
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/bac76929-5ce0-44f8-a389-bb121a1836cd">
+
 
 
 
@@ -37,11 +38,7 @@ Steps:
 Went to Containers in the storage account.
 Created a container named \$web (this is the default container for static websites).
 Uploaded my website files (e.g., index.html, styles.css, and script.js) to the \$web container.
-![image](https://github.com/user-attachments/assets/1ead8cb3-7bb4-486e-98eb-8e161e4da87a)
-![image](https://github.com/user-attachments/assets/71ca3647-e07d-487a-913e-8a747085d418)
-![image](https://github.com/user-attachments/assets/e50026ee-bcb7-4560-be48-99373d159822)
-
-
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/354c1c34-cff6-44ec-902f-243e16685eac">
 
 4. Verify the Website
 Once everything was set up, I verified that the website was live.
@@ -50,3 +47,6 @@ link above to my static website
 Steps:
 Opened the Primary Endpoint URL provided in the static website settings.
 Confirmed that the website loaded correctly with all assets (HTML, CSS, and JavaScript).
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/8bdfb505-45e1-4fe6-a9ef-867bd07c89f1">
+
+
